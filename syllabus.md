@@ -56,7 +56,8 @@ I have done my best to keep the assessment simple. However, when questions and c
 
 Following are assessment types that comprise the final grade:
 
-- **Quizzes (in-person and online)** - 30% of the final grade.
+- **Quizzes (in-person and online)** - 30% of the final grade.  
+- **Fundamentals test** - 20% of the final grade.  
 - **Conceptual videos** - 15% of the final grade.  
 - **Conceptual connections** - 5% of the final grade.  
 - **Application assignments** - 20% of the final grade.  

@@ -20,7 +20,7 @@ I have done my best to keep the assessment simple. However, when questions and c
 
 Following are assessment types that comprise the final grade:
 
-- **Reading quizzes (in-person and online)** - 30% of the final grade.  
+- **Reading/video quizzes (in-person and online)** - 30% of the final grade.  
 - **Fundamentals quizzes (online)** - 20% of the final grade.  
 - **Fundamentals test** - 10% of the final grade.  
 - **Application assignments** - 30% of the final grade.  
@@ -31,120 +31,53 @@ Below are written and/or video descriptions of the activities that will be asses
 *Some of the assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
 
 
-## Reading/video quizzes (at-home)
+## Reading/video quizzes (online)
 
-There will be two reading/video assignments most weeks, with online reading quizzes due to be completed by 8am on Monday and Wednesday. These quizzes will run in the D2L site for Theory 3, and will count towards the Theory 3 grade. Only quizzes submitted by students present in class will be assessed.
+There will be two reading/video assignments most weeks, with online reading quizzes due to be completed by 7am on Tuesday and Thursday. These quizzes will run in D2L. Only quizzes submitted by students present in class will be assessed.
 
 Online quizzes will be open-note, will include mostly informational questions, and will be graded by percentage of questions answered correctly. Most quizzes will contain one or two questions that are created in order to get you thinking about conceptual issues that we will engage during class, and to give me information about everyone's general level of understanding before class. These questions will receive full credit for any honest attempt, regardless of correctness, and will be labeled as "graded for attempt only."
 
 While these quizzes are open-note and collaboration is allowed, I highly encourage you to attempt them individually without consulting readings or notes, and then go back to your notes (and/or your study partner's notes) and correct any mistakes before submitting your answers. This will give you both practice recalling the information and feedback when you are incorrect — two of the most helpful things for memorizing information correctly (and preparing for in-class quizzes).
 
+
 ## Reading/video quizzes (in-class)
 
-Most class meetings will begin with a short (5 minutes or less) paper-based, closed-note quiz. These quizzes will count towards the Theory 3 grade.
+Most class meetings will begin with a short (5 minutes or less) paper-based, closed-note quiz.
 
 All of the questions on these quizzes will be taken from previous online quizzes, including the online quiz due on that class day. While questions from all quizzes are fair game, most of the questions on these in-class quizzes will be taken from the most recent online quizzes.
 
-The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course. Thus, they must be done regularly and *before* we work through these concepts in class. There are no reassessment opportunities for quizzes. However, the lowest 15% of quiz grades will be dropped when calculating your final grade. 
+The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course. Thus, they must be done regularly and *before* we work through these concepts in class. There are no reassessment opportunities for quizzes. However, the lowest 15% of all quiz grades (in-person and online) will be dropped when calculating your final grade. 
 
-## Conceptual videos
 
-Each week (beginning with Week 2), you will submit three conceptual videos. These videos will be uploaded to the dropbox on the Theory 3 D2L site by the beginning of your section meeting on Thursday (unless other instructions are provided), and will count towards the Theory 3 grade. They will be graded pass/not-pass, but you will have a reassessment opportunity (see below). There is no collaboration for these videos.
+## Fundamentals quizzes (online)
 
-These videos should be *no more than 90 seconds*, and in them you should explain the concept in your own words and present at least one example of application to elucidate that explanation. These examples of application should be pieces of music *not covered in class or in Open Music Theory*. Examples can come from existing pieces in the repertoire, or pieces that you compose yourself.
+Fluency in notational and conceptual fundamentals is absolutely essential to successful musicianship, especially (but not exclusively) for those of us who work primarily in written styles (classical, jazz, liturgical musics). Readings and in-class discussions will help you gain, or shore up, an understanding of these concepts. A series of online quizzes will help you build accuracy and fluency.
 
-Videos that explain the concept accurately and coherently with a relevant example will receive credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity, due one week after the original deadline. (For most weeks, that means submitting any redos along with the next week's assigned videos.) 
+During the first half of the semester, there will be online, fast-paced, timed quizzes on the following topics: meter & time signatures, keys & key signatures, pitches (on treble, alto, and bass staves), scales, scale degrees, intervals, triads, seventh chords, lead-sheet chord symbols, and Roman-numeral chord symbols.
 
-For each concept, one student video will be shared publicly (with that student's permission) with the class on our collaborative concept map. Throughout the course, this map will provide a high-quality set of concise explanations for student review and public consumption.
+Research shows that *repeated*, low-stakes attempts to recall information, spread out over time is one of the best ways to memorize something and remember it for a long time. With that in mind, multiple quizzes will be given for each of these ten topics. You may attempt a quiz for any topic *once per class meeting* (i.e., twice per week), and you can attempt quizzes for as many topics as you like for each class meeting. Your *best two quiz scores* for each topic will count toward your overall grade; all other attempts will be dropped from the grade and simply considered practice. In other words, keep studying for and taking quizzes for a topic until you have two grades you are happy with; then stop taking quizzes for that topic and focus your practice on other topics.
 
-*Example video(s) forthcoming.*
+You may be used to classes in which every quiz/homework assignment counts. I believe that unfairly hurts the final grades of students who take longer to master a particular concept or skill. This grading scheme is designed to motivate you to do a lot of practice, to eliminate busy work (no need to take extra quizzes on a topic you've already mastered), to help you identify the specific areas that need the most attention in your studies, and to reflect your *successes* in your final grade, rather than all the steps you took along the way. However, I understand that it may be unfamiliar or even a bit confusing to you, so please talk to me early and often with any questions you have about the grading and how to use the system to best support your growth as a musician.
 
-## Conceptual mapping
 
-Each week (beginning with Week 3), you will submit three explanations of conceptual relationships. These will be uploaded to the Theory 3 D2L site by the beginning of your section meeting on Thursday (unless other instructions are provided), and will count toward the Theory 3 grade. They will be graded pass/non-pass, and there will be no reassessment opportunities. However, you will be allowed to collaborate with one or two other people (be sure to include the name(s) of your collaborator(s) in the text of your submission).
+## Fundamentals test (in-person)
 
-We will collaboratively create a visual diagram that maps out our core concepts and their relationships. This diagram will include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one and three sentences per relationship). I will build one master concept map over the entirety of the course, based on your submissions. Each week you will submit explanations for relationships between concepts from the previous weeks' study. All correct explanations will receive credit, and the best explanation for each relationship will be posted to the collaborative concept map anonymously.
+Strong musicians are not simply those who can recognize things when they see or hear them, but those who can also produce them on-demand and write them in a way that is intelligible to other musicians. Class activities will be geared to building this aspect of musical fluency, and that fluency will be assessed with a fundamentals test, tentatively scheduled for Week 5.
 
-Here is an example collaborative concept map from my online Music Cognition course:
+The fundamentals test will assess your ability to notate the following things (where applicable, on treble, alto, or bass staves): meter & time signatures, rhythmic notation ("bottom-number transposition"), clefs, keys & key signatures, pitches (on treble, alto, and bass staves), scales, melodic transpositions, intervals, triads, seventh chords, and harmonic labels (lead-sheet chord symbols and Roman-numeral chord symbols). Each of these 11 categories will be scored separately on this test.
 
-<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="680" height="400" src="https://prezi.com/embed/ntsoqg1f9m7i/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;PARENT_REQUEST_ID=930b5d69ca638a42#"></iframe><br/>Or [view the concept map directly on Prezi](https://prezi.com/ntsoqg1f9m7i/music-cognition/).
+There will also be a follow-up test, tentatively scheduled for Week 8. In this test, you may re-attempt any of the topics from the first test for which you are not happy with your result. The best of those two scores for each topic will contribute to the overall course grade.
 
-## Application assignments (theory)
 
-Most weeks will involve small-scale assignments in which you will cultivate and/or demonstrate your skills in applying the concepts of the week (and possibly those covered in previous weeks) in a musical task. These will generally be due by 8am on Mondays, and will count toward the Theory 3 grade. Submit via the dropbox on the Theory 3 D2L site, unless given different instructions.
+
+## Application assignments
+
+Most weeks will involve small-scale assignments in which you will cultivate and/or demonstrate your skills in applying the concepts of the week (and possibly those covered in previous weeks) in a musical task. These will generally be due by the beginning of class. In some weeks there will be two short assignments (one due on Tuesday, one on Thursday), and in other weeks one larger assignment will be due on Tuesday. Submit via the dropbox on the Theory 3 D2L site, unless given different instructions.
 
 These application assignments will include voice-leading exercises, harmonic reductions, harmonic/melodic/formal analyses, composition exercises, etc. For each assignment type, you will be provided with specific instructions and a model assignment to consult as you work. 
 
-## Synthesis projects 
+## Final writing project
 
-Each major unit of study will contain an end-of-unit project in which you will demonstrate the ability to synthesize many, if not all, of the concepts covered in that unit in a large(ish)-scale musical project, such as an analytical paper, a full-movement model composition, a research project, etc. Specific details will be provided for each unit. These projects will count toward the Theory 3 grade.
+The final unit of the semester explores a very strict style of musical composition, in order to help you understand fundamental principles of how multiple musical voices combine into a whole texture that makes good melodic *and* harmonic sense. However, the "rules" of this strict style only sometimes apply in "real" musical styles. In this final project, find an piece/passage of music that exemplifies these "rules" in action, as well as a piece/passage of music that breaks these rules but still makes good musical sense. Write a short, informal essay or make a short video in which you explain how, specifically, the rules do or do not apply in these musical examples, and explain *why* these passages work the way they do.
 
-## Prepared performance
-
-In each unit of study, you will create a portfolio of prepared performance videos. Videos will be submitted in the dropbox of the Aural Skills 3 D2L site, and will count toward the Aural Skills 3 grade. Some videos will be individual, others for a small ensemble.
-
-Make a video of yourself performing each of the pieces in the portfolio. Each video in the portfolio will be assessed according to a 2-point rubric:
-
-- 2 points: accurate, concert-ready performance  
-- 1 point: an honest attempt, but not yet concert-ready  
-- 0 points: no attempt made, or video reflects little-to-no preparation
-
-Video performances will generally be due early in the unit, submitted by 8am on Mondays. Videos receiving 1 point will be allowed to submit a second video one week after the original due date, in order to re-attempt the full 2 points (accurate, concert-ready performance). Further reassessments *may* be allowed, at the discretion of the Tuesday/Thursday section instructor.
-
-Details about specific pieces, collaboration options, etc. will be provided as performance videos are assigned.
-
-## Live performance (from sight or improvized)
-
-This course contains the following three live-performance objectives:
-
-- Sight-read a melody of moderate complexity in a contemporary pop/rock style, at an instrument or voice of choice.  
-- Sight-read a melody that follows the formal conventions of classical/*galant* themes, sung with solfege.  
-- Improvize a melody that follows the formal conventions of classical/*galant* themes, at an instrument or voice of choice.
-
-These will be assessed via individual in-person exams that will take the place of a Tuesday/Thursday section. They will be graded according to a 3-point rubric (see below), and will count towards the Aural Skills 3 grade. Two exam slots will be reserved for the pop/rock objective, and three exam slots will be reserved for the two classical/*galant* objectives. Students may attempt each objective once or twice. (Additional attempts will only be provided at the discretion of the Tuesday/Thursday section instructor.) Only the best score for each objective will count toward the final grade. 
-
-Grades for each sight-reading exam will be assigned as follows:
-
-- 3 points: a (nearly) flawless performance on the first or second attempt.  
-- 2 points: a strong performance with a few small mistakes, or which requires more than two attempts to sound concert-ready.  
-- 1 point: an honest attempt, but with significant errors.  
-- 0 points: no attempt or performance reflects little-to-no preparation.
-
-Grades for each improvisation exam will be assigned as follows:
-
-- 3 points: a stylistically appropriate performance with 3 or more notes in most stages of the schemas and several diatonic and chromatic embellishing tones, on the first or second attempt.  
-- 2 points: a stylistically appropriate performance with 1 or 2 notes in most stages and/or minimal use of embellishing tones, on the first or second attempt.  
-- 1 point: an accurate performance of the skeleton notes of the schemata, but little-to-no embellishment, on the first or second attempt.  
-- 0 points: no attempt, or inaccuracies on the skeleton notes of the schemas.
-
-
-## Slow transcription
-
-This semester will contain a number of short, full-textured transcriptions, in both pop/rock and classical (typically keyboard or string-quartet) styles. Slow transcriptions will be submitted via the dropbox on the Aural Skills 3 D2L page and will count toward the Aural Skills 3 grade.
-
-Each transcription will be evaluated for accuracy of four musical features:
-
-- melody (pitch, rhythm, and register)  
-- bass line (pitch, rhythm, and register)  
-- harmony (lead-sheet chord symbols for pop/rock, Roman numerals and T/S/D labels for classical)  
-- inner/other voices (all vocal parts and melodic instruments for pop/rock, all voices/parts for classical)
-
-Each of these features will be given a score on the following 3-point scale (total of 12 points per transcription):
-
-- 3 points: a performance-ready transcription (most professional musicians would not be able to tell that it contained mistakes).  
-- 2 points: mostly correct, but with 1–3 mistakes that a professional musician would notice in a performance.  
-- 1 point: more than three noticeable mistakes.  
-- 0 points: not attempted, or attempt reflects little-to-no substantive effort.
-
-The best three pop/rock transcriptions and the best three classical transcriptions will count towards the final grade.
-
-I have made a [video demo](https://vimeo.com/119572881) of my classical transcription process.
-
-
-## Fast transcription (dictation)
-
-This semester will also contain a number of short transcription exercises, focusing solely on melodies and bass lines in both pop/rock and classical styles. Assessments will generally take place during the Monday/Wednesday classes and will count toward the Aural Skills 3 grade.
-
-Each fast transcription assignment will contain 2–3 melodies or bass lines, and each melody/bass line will be given a single score on the same 3-point scale as the slow transcriptions. The best two pop/rock transcription assignments and the best two classical transcription assignments will count toward the final grade.
-
-
+More details about this project will be provided later in the semester.

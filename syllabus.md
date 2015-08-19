@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subTitle: "Music Theory 1 (MUSC 1101)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
+subTitle: "Music Theory 1 (MUSC 1101)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: path.jpg
 ---
 

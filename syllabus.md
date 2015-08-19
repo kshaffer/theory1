@@ -43,6 +43,12 @@ All other required class materials will be posted or linked to on the course sit
 Since we are laying a foundation this semester, we will take a broad approach to repertoire selection. I will bring in examples from multiple genres, and when you are asked to bring in examples, you are encouraged to bring in whatever you like to listen to most, whatever you are training to perform/compose/teach for a living, whatever you are interested in that fits the bill for the structures we are exploring at the time.
 
 
+## Units of study
+
+Unit I (approx. weeks 1–6): Melody and musical fundamentals  
+Unit II (approx. weeks 7–10): Harmonic structures – reduction, elaboration, and analysis  
+Unit III (approx. weeks 11–15): Strict counterpoint in two voices
+
 ## Assessment & grades
 
 The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.

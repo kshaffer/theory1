@@ -5,7 +5,7 @@ subTitle: "Semester 1 Theory (MUSC 1101), CU–Boulder, Fall 2015"
 image: drain.jpg
 ---
 
-<img src="/img/twitterBio-small.jpg" style="float: right"/>Welcome to the first semester of the music theory sequence at CU–Boulder! I'm looking forward to getting to know you all and exploring music together!
+<img src="/img/twitterBio-small.jpg" style="float: right; padding-left: 12px"/>Welcome to the first semester of the music theory sequence at CU–Boulder! I'm looking forward to getting to know you all and exploring music together!
 
 We'll be meeting Tuesday and Thursday mornings at 8am, in room C199.
 

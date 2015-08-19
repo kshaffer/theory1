@@ -13,25 +13,18 @@ My goal in grading is three-fold: to diminish the significance and the negative 
 
 With that in mind, assessment will be oriented around specific concepts and skills, and in order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt. All assessments within a category will be weighted equally.
 
-I have done my best to keep the assessment simple, especially since there will naturally be a little confusion about the way that this combined course will produce separate grades for theory and aural skills. All assignments will be clearly marked as counting towards theory or aural skills, and all of the section instructors, graders, and I will do our best to ensure that the course gradesbooks (in D2L) are continually up-to-date. However, when questions and confusions inevitably arise, it is your responsibility to talk to your section instructor or to me as soon as you can so that we can straighten things out.
+I have done my best to keep the assessment simple. However, when questions and confusions inevitably arise, it is your responsibility to talk to me as soon as you can so that we can straighten things out.
+
 
 ### Final grade calculation
 
-Following are assessment types that comprise the final Theory 3 grade:
+Following are assessment types that comprise the final grade:
 
-- **Online quizzes (open-note)** - 15% of the final Theory 3 grade.  
-- **In-class quizzes (closed-note)** - 15% of the final Theory 3 grade.  
-- **Conceptual videos** - 30% of the final Theory 3 grade.  
-- **Conceptual connections** - 10% of the final Theory 3 grade.  
-- **Application assignments** - 20% of the final Theory 3 grade.  
-- **Synthesis projects** - 10% of the final Theory 3 grade.
-
-Following are assessment types that comprise the final Aural Skills 3 grade:
-
-- **Prepared performance (voice and/or instrument)** - 25% of the final Aural Skills 3 grade.  
-- **Live performance (from sight or improvized)** - 25% of the final Aural Skills 3 grade.  
-- **Fast transcription (dictation)** - 25% of the final Aural Skills 3 grade.  
-- **Slow transcription** - 25% of the final Aural Skills 3 grade.  
+- **Reading quizzes (in-person and online)** - 30% of the final grade.  
+- **Fundamentals quizzes (online)** - 20% of the final grade.  
+- **Fundamentals test** - 10% of the final grade.  
+- **Application assignments** - 30% of the final grade.  
+- **Final writing project** - 10% of the final grade.
 
 Below are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
 

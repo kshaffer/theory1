@@ -33,7 +33,8 @@ LMS/Gradebook:  D2L
 - [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
 - A web-enabled device that is capable of reading online text, accessing the course website, watching video, listening to Spotify or IMSLP audio, and recording video.  
 - An active Google Apps account, using your CU IdentiKey credentials. (You all have this already, we will make a lot of use of it.)  
-- An account to [Spotify](http://www.spotify.com) (a free account is fine).
+- An account to [Spotify](http://www.spotify.com) (a free account is fine).  
+- Staff paper and a pencil (bring to every class meeting).  
 
 All other required class materials will be posted or linked to on the course site.
 
@@ -56,11 +57,10 @@ I have done my best to keep the assessment simple. However, when questions and c
 
 Following are assessment types that comprise the final grade:
 
-- **Quizzes (in-person and online)** - 30% of the final grade.  
-- **Fundamentals test** - 20% of the final grade.  
-- **Conceptual videos** - 15% of the final grade.  
-- **Conceptual connections** - 5% of the final grade.  
-- **Application assignments** - 20% of the final grade.  
+- **Reading quizzes (in-person and online)** - 30% of the final grade.  
+- **Fundamentals quizzes (online)** - 20% of the final grade.  
+- **Fundamentals test** - 10% of the final grade.  
+- **Application assignments** - 30% of the final grade.  
 - **Final writing project** - 10% of the final grade.
 
 For further details about assessment and grades, as well as example assignments, please see the [Assessment guide](/assessments/).
@@ -68,7 +68,7 @@ For further details about assessment and grades, as well as example assignments,
 
 ## Reaching the instructor
 
-The best ways to reach me during the course are [email](mailto:kris.shaffer@colorado.edu) or simply stopping my my office. Please allow up to two class days for a response, though during the work week, I tend to respond much more quickly than that. Messages sent on Saturday or Sunday will likely not receive a reply until Monday.
+The best ways to reach me during the course are [email](mailto:kris.shaffer@colorado.edu) or simply stopping my my office (MUS N138). Please allow up to two class days for a response, though during the work week, I tend to respond much more quickly than that. Messages sent on Saturday or Sunday will likely not receive a reply until Monday.
 
 
 ## Technical support

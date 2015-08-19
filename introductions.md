@@ -1,20 +1,34 @@
 ---
 layout: page
 title: Getting Started
-subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
+subTitle: "Semester 1 Theory (MUSC 1101), CU–Boulder, Fall 2015"
 image: drain.jpg
 ---
 
-<div class="center-video"><iframe src="https://player.vimeo.com/video/127973048" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973048">Introduction to Music Cognition</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+Welcome to the first semester of the music theory sequence at CU–Boulder! I'm looking forward to getting to know you all and exploring music together!
 
-Welcome! As you're gearing up for the course, please be sure to examine the [syllabus](/syllabus/) and [course policies](/policies/) carefully. Once you've done so and watched the above video, please do the following **by 3 p.m. (MDT) on Monday, June 1:**
+In this course, we will be pursuing the following goals:
 
-1. **Make your own personal introduction video.** This is a 1-minute video of yourself in which you give us your name as you'd like us to call you, and either what you find most interesting about this course or what you'd most like to learn in this course. Then go to the discussion form in D2L, select the "Introductions/Getting Started" topic, and create a new thread, entitled "(your name) introduction". Then upload your video to that thread. (See [video instructions](https://vimeo.com/129008805). For additional help, see OIT's [Kaltura/D2L tutorial](http://www.colorado.edu/oit/tutorial/d2l-insert-course-media-kaltura) and [Kaltura widget tutorial](http://www.colorado.edu/oit/tutorial/d2l-upload-media-kaltura-widget).)
+- *fluency* in basic musical concepts  
+- *connection* of those basic concepts to music from a multiplicity of styles  
+- experience *building* musical structures, such as melodies and phrases  
+- experience *breaking* musical structures apart, and possibly *re-building* them, in order to understand them better  
+- the ability to *ask good questions* about musical structure and meaning  
+- *critical mindfulness* – which techniques belong to which styles, which methods of building and breaking are appropriate for which pieces of music, etc.
 
-2. **Sign up for [Twitter](http://www.twitter.com) (if you don't already have an account), and then send a tweet to me with the course hashtag.** Something like, "Hey, @krisshaffer, I'm getting set up for the summer #muscog course!" The course hashtag will help others in the course find you, and tagging me will let me know to follow you (so you can send me private messages) and add you to my list for the course. I'll re-tweet your message to make sure others in the course see it (since new Twitter users don't always show up in hashtag search results for a while). You are welcome to use a pseudonym in your Twitter account, but if so, please [send me an email](mailto:kris.shaffer@colorado.edu) to let me know your pseudonym.
+Note that these goals are about *you* and *your* growth as musicians. The work of dead (or living) celebrities like Bach, Beethoven, Beyoncé, and The Beatles is not at the center of what we will do. Nor will my activity as the instructor be at the center of what we do. *Your* work will be at the center of class. I will design activities to support that work and guide you through it, I will choose (or write) materials to support that work, and we will together choose much of the repertoire through which we will work. But it is you and your musical/intellectual/personal growth that will be at the center of what we do.
 
-3. Go to the "Introductions/Getting Started" topic in our course discussion forum on D2L. **Watch a few (or all!) of your colleagues' videos, and leave a friendly comment on at least two of them** in response to something they shared in their video. (See [video instructions](https://vimeo.com/129008805).)
+Of course, there's more than one of you, and we will do much of this work together. In order for that to work, we need to create an environment of mutual respect and inclusion, where we are all safe to try new things and float new ideas, as well as to challenge those ideas. I have done my best to accomodate different personality types, different study preferences, and lots of opportunities to try something out without worrying about a grade penalty in the way that I have designed assessments and class activities. However, creating an environment in which all feel respected, feel free to speak their mind and live their identity, is a responsibility we all must take on — both individually and collectively. Let's all commit to doing what we can to create an inclusive, mutually supportive environment, and please feel free to come to me if you feel that is not happening in the ways that it could (or should).
 
-These three things are an easy way to get **your first three assessment points**, but more importantly, they will help us build a collaborative, mutually beneficial community for this course. Once you've gotten started with the above, try to find/follow them on Twitter by searching for "#muscog".
+We will hit the ground running with our work on Day 1 (Tuesday, August 25). In order to be ready to go, please bring the following to class:
 
-Note: We will be using both public and private online fora for class discussions. Because things posted online disappear far more slowly than things that are spoken (if they ever disappear), and since typed text lacks the nuances of body language, facial expressions, and tone of voice, it is even more important to take care in promoting an environment of openness and respect. Please review the "professional courtesy" section on my [course policies](/policies/) document, and commit to doing your part to foster an environment where intellectual challenges are welcome, but always put forward with the utmost respect.
+- a pencil (or two)  
+- staff paper (please bring this every day)  
+- a web-enabled device (laptop, tablet, smartphone, etc. — these will also be needed every day; please contact me if this is not possible or practical for you, and we can work out another solution)  
+- a melody from any genre that you think is really good; not a piece/song/passage that you like, but specifically a *melody* that you find compelling, memorable, or emotionally impactful (artist and title is enough, but a copy of a score or an audio file loaded up on Spotify or iTunes wouldn't hurt)
+
+I'm looking forward to our time together this semester! I'll see you all on Tuesday morning!
+
+– Kris Shaffer, Ph.D. (I prefer to be called Kris)
+
+*P.S. Feel free to browse the whole course website if you like, including the syllabus and assignment guide. We will also look at those together later this week.*

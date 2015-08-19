@@ -5,7 +5,7 @@ subTitle: "Semester 1 Theory (MUSC 1101), CU–Boulder, Fall 2015"
 image: drain.jpg
 ---
 
-Welcome to the first semester of the music theory sequence at CU–Boulder! I'm looking forward to getting to know you all and exploring music together!
+<img src="/img/twitterBio-small.jpg" style="float: right"/>Welcome to the first semester of the music theory sequence at CU–Boulder! I'm looking forward to getting to know you all and exploring music together!
 
 In this course, we will be pursuing the following goals:
 
@@ -29,6 +29,7 @@ We will hit the ground running with our work on Day 1 (Tuesday, August 25). In o
 
 I'm looking forward to our time together this semester! I'll see you all on Tuesday morning!
 
-– Kris Shaffer, Ph.D. (I prefer to be called Kris)
+– Kris Shaffer, Ph.D.  
+(I prefer to be called Kris)
 
 *P.S. Feel free to browse the whole course website if you like, including the syllabus and assignment guide. We will also look at those together later this week.*

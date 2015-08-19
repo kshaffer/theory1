@@ -7,6 +7,8 @@ image: drain.jpg
 
 <img src="/img/twitterBio-small.jpg" style="float: right"/>Welcome to the first semester of the music theory sequence at CU–Boulder! I'm looking forward to getting to know you all and exploring music together!
 
+We'll be meeting Tuesday and Thursday mornings at 8am, in room C199.
+
 In this course, we will be pursuing the following goals:
 
 - *fluency* in basic musical concepts  

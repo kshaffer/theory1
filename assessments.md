@@ -20,10 +20,10 @@ I have done my best to keep the assessment simple. However, when questions and c
 
 Following are assessment types that comprise the final grade:
 
-- **Reading/video quizzes (in-person and online)** - 30% of the final grade.  
+- **Reading/video quizzes (online)** - 20% of the final grade.  
 - **Fundamentals quizzes (online)** - 20% of the final grade.  
 - **Fundamentals test** - 10% of the final grade.  
-- **Application assignments** - 30% of the final grade.  
+- **Application assignments** - 40% of the final grade.  
 - **Final writing project** - 10% of the final grade.
 
 Below are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
@@ -37,16 +37,9 @@ There will be two reading/video assignments most weeks, with online reading quiz
 
 Online quizzes will be open-note, will include mostly informational questions, and will be graded by percentage of questions answered correctly. Most quizzes will contain one or two questions that are created in order to get you thinking about conceptual issues that we will engage during class, and to give me information about everyone's general level of understanding before class. These questions will receive full credit for any honest attempt, regardless of correctness, and will be labeled as "graded for attempt only."
 
-While these quizzes are open-note and collaboration is allowed, I highly encourage you to attempt them individually without consulting readings or notes, and then go back to your notes (and/or your study partner's notes) and correct any mistakes before submitting your answers. This will give you both practice recalling the information and feedback when you are incorrect — two of the most helpful things for memorizing information correctly (and preparing for in-class quizzes).
+While these quizzes are open-note and collaboration is allowed, I highly encourage you to attempt them individually without consulting readings or notes, and then go back to your notes (and/or your study partner's notes) and correct any mistakes before submitting your answers. This will give you both practice recalling the information and feedback when you are incorrect — two of the most helpful things for memorizing information correctly (and preparing for in-class activities).
 
-
-## Reading/video quizzes (in-class)
-
-Most class meetings will begin with a short (5 minutes or less) paper-based, closed-note quiz.
-
-All of the questions on these quizzes will be taken from previous online quizzes, including the online quiz due on that class day. While questions from all quizzes are fair game, most of the questions on these in-class quizzes will be taken from the most recent online quizzes.
-
-The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course. Thus, they must be done regularly and *before* we work through these concepts in class. There are no reassessment opportunities for quizzes. However, the lowest 15% of all quiz grades (in-person and online) will be dropped when calculating your final grade. 
+The goal for these quizzes is to promote the memorization of basic information that we will be addressing and applying in class, and to promote long-term retention of information engaged in this course. Thus, they must be done regularly and *before* we work through these concepts in class. There are no reassessment opportunities for quizzes. However, the lowest 15% of all quiz grades will be dropped when calculating your final grade. 
 
 
 ## Fundamentals quizzes (online)

@@ -2,7 +2,7 @@
 layout: page
 title: Week 1 – reflection questions
 subTitle: "Music Theory 1 (MUSC 1101)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
-image: string.jpg
+image: schemas.jpg
 ---
 
 Wednesday's class will begin with a closed-note, ungraded "quiz." The purpose is to help you memorize some important basic concepts, and to have them fresh in your mind (what psychologists call "primed" in memory) as we begin class. This will hopefully allow for deeper class discussion and engagement with what we work on in class. The "quiz" will draw from the following reflection questions. Find and memorize the answers to these questions in Wednesday's readings.

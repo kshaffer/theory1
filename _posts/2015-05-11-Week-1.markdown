@@ -1,6 +1,6 @@
 ---
 layout: default
-image: stringSmall.jpg
+image: schemasSmall.jpg
 category: Services
 title: Week 1 – August 24–27
 description: |

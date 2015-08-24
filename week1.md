@@ -7,32 +7,27 @@ image: memory.jpg
 
 ## Schedule
 
-**Monday, August 24:** Introductions  
-**Tuesday, August 25:** Conceptual workshop on syncopation in pop/rock  
-***Due Wednesday, August 26, before class:*** *Reading/video quiz*  
-**Wednesday, August 26:** Pop/rock syncopation in depth  
-**Thursday, August 27:** Performing pop/rock syncopation (with instruments)
+**Tuesday, August 25:** Introductions  
+***Due Thursday, August 27, before class:*** *Memorize answers to reflection questions*  
+**Thursday, August 27:** Pop/rock syncopation in depth  
 
-***Due Monday, August 31, 8am:*** *Reading/video quiz*
+***Due Tuesday, September 1, 8am:*** *Reading/video quiz*
 
 ## Core concepts
 
-In this unit, we will explore the following core concepts:
+This week we will explore the following core concepts:
 
-- Syncopation  
-- Fake triplets  
 
 
 
 ## Assignments
 
-**For Wednesday, August 26, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+**For Thursday, August 27, 8am,** read/review the following, and then prepare for [a closed-note, ungraded, in-class "quiz"](/week1quiz1/).
 
-- [Syncopation in pop/rock music](http://openmusictheory.com/syncopation.html)  
-- [*Make It Stick: The Science of Successful Learning*, Chapter 1]() (link forthcoming)  
+- [Pitches](http://openmusictheory.com/pitches.html)  
+- [Key signatures](http://openmusictheory.com/keySignatures.html)  
+- [Basic notation](http://openmusictheory.com/basicNotation.html)  
+- [*Make It Stick: The Science of Successful Learning*, Chapter 1](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cSkhUTkN6RGRVMnM/view?usp=sharing) (You will need to be registered for the class and login to Google Drive using your CU credentials to view/download this file. Your username is YourIdentiKey@colorado.edu *not* your regular email address. Password is your CU IndentiKey password.)  
 
-**For Monday, August 31, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+**For Tuesday, September 1, 8am,** read/watch the following, and then take the quiz in the course D2L site.
 
-- Modes (link coming soon)  
-- [Modal mixture](http://openmusictheory.com/modalMixture.html) (skip the section on functional bass notation)  
-- [Harmony in pop/rock music](http://openmusictheory.com/popRockHarmony.html)  

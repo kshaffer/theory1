@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Week 1 – Pop/rock syncopation
-subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
+title: Week 1 – Pitch & Melody
+subTitle: "Music Theory 1 (MUSC 1101)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: memory.jpg
 ---
 

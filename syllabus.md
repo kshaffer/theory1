@@ -63,10 +63,10 @@ I have done my best to keep the assessment simple. However, when questions and c
 
 Following are assessment types that comprise the final grade:
 
-- **Reading/video quizzes (in-person and online)** - 30% of the final grade.  
+- **Reading/video quizzes (online)** - 20% of the final grade.  
 - **Fundamentals quizzes (online)** - 20% of the final grade.  
 - **Fundamentals test** - 10% of the final grade.  
-- **Application assignments** - 30% of the final grade.  
+- **Application assignments** - 40% of the final grade.  
 - **Final writing project** - 10% of the final grade.
 
 For further details about assessment and grades, as well as example assignments, please see the [Assessment guide](/assessments/).

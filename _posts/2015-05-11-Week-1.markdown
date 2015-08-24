@@ -1,0 +1,8 @@
+---
+layout: default
+image: stringSmall.jpg
+category: Services
+title: Week 1 – August 24–27
+description: |
+  <p class="lead"><b>Pitch & Melody.</b><br/><br/>We begin the semester by building a small "corpus" of melodies. We will use these melodies as guides while we lay a solid foundation of foundational musical concepts.<br/><br/><a href="/week1/">Read more...</a></p>
+---

@@ -17,6 +17,12 @@ image: memory.jpg
 
 This week we will explore the following core concepts:
 
+- Pitch  
+- Pitch class  
+- Key signature  
+- Staff  
+- Clef  
+
 
 
 
@@ -25,9 +31,15 @@ This week we will explore the following core concepts:
 **For Thursday, August 27, 8am,** read/review the following, and then prepare for [a closed-note, ungraded, in-class "quiz"](/week1quiz1/).
 
 - [Pitches](http://openmusictheory.com/pitches.html)  
+- [Musical Tone & Pitch (video)](https://vimeo.com/129254238)  
 - [Key signatures](http://openmusictheory.com/keySignatures.html)  
 - [Basic notation](http://openmusictheory.com/basicNotation.html)  
 - [*Make It Stick: The Science of Successful Learning*, Chapter 1](https://drive.google.com/a/colorado.edu/file/d/0B9o4hmKNoi6cSkhUTkN6RGRVMnM/view?usp=sharing) (You will need to be registered for the class and login to Google Drive using your CU credentials to view/download this file. Your username is YourIdentiKey@colorado.edu *not* your regular email address. Password is your CU IndentiKey password.)  
 
-**For Tuesday, September 1, 8am,** read/watch the following, and then take the quiz in the course D2L site.
+**For Tuesday, September 1, 8am,** read/watch the following, and then take the quiz in the course D2L site (coming soon).
+
+- [Pitches](http://openmusictheory.com/pitches.html) (review)  
+- [Key signatures](http://openmusictheory.com/keySignatures.html) (review)  
+- [Basic notation](http://openmusictheory.com/basicNotation.html) (review)  
+- [Scales and scale degrees](http://openmusictheory.com/scales.html)
 

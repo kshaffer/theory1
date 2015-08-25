@@ -23,7 +23,7 @@ Term: Fall 2015
 Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
 Physical office: MUS N138  
 Email: kris.shaffer@colorado.edu  
-Teaching assistant: Zack Patten (zachary.patten@colorado.edu)  
+Teaching assistant: Zack Patten ([zachary.patten@colorado.edu](mailto:zachary.patten@colorado.edu))  
 TA office: MUS N114  
 TA office hours: 11am–noon, Tuesday & Thursday  
 Twitter: @krisshaffer  

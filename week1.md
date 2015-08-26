@@ -30,6 +30,7 @@ This week we will explore the following core concepts:
 
 **For Thursday, August 27, 8am,** read/review the following, and then prepare for [a closed-note, ungraded, in-class "quiz"](/week1quiz1/).
 
+- [Syllabus](/syllabus/)  
 - [Pitches](http://openmusictheory.com/pitches.html)  
 - [Musical Tone & Pitch (video)](https://vimeo.com/129254238)  
 - [Key signatures](http://openmusictheory.com/keySignatures.html)  

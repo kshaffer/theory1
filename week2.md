@@ -8,8 +8,8 @@ image: memory.jpg
 ## Schedule
 
 ***Due Tuesday, September 1, 8am:*** *Reading/video quiz, fundamentals quizzes*
-
 **Tuesday, September 1:** scales and scale degrees  
+
 ***Due Thursday, September 3, before class:*** *Reading/video quiz, fundamentals quizzes* 
 **Thursday, September 3:** transposition, introduction to intervals  
 

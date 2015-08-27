@@ -51,7 +51,7 @@ Then take three quizzes in D2L:
 
 You can find the quizzes by going to [learn.colorado.edu](http://learn.colorado.edu), selecting Semester 1 Theory, clicking on "Content", and then clicking on "Unit I: Melody and musical fundamentals".
 
-![](./images/D2LQuizImage.png)
+![](/media/D2LQuizImage.png)
 
 
 ### For Thursday, September 3, 7am:

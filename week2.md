@@ -34,7 +34,9 @@ Chromatic scale
 
 ## Assignments
 
-**For Tuesday, September 1, 7am,** read/watch the following:
+### For Tuesday, September 1, 7am:
+
+Read/watch the following:
 
 - [Pitches](http://openmusictheory.com/pitches.html) (review)  
 - [Key signatures](http://openmusictheory.com/keySignatures.html) (review)  
@@ -52,7 +54,9 @@ You can find the quizzes by going to [learn.colorado.edu](http://learn.colorado.
 ![](./images/D2LQuizImage.png)
 
 
-**For Thursday, September 3, 7am,** read watch the following:
+### For Thursday, September 3, 7am:
+
+Read/watch the following:
 
 - Review fundamentals chapters in [*Open Music Theory*](http://openmusictheory.com/contents.html) as needed, in light of questions that arose during class and/or preparation for the fundamentals quizzes.  
 - Read [Intervals](http://openmusictheory.com/intervals.html) (stop at "Consonance and dissonance")  
@@ -68,7 +72,9 @@ And take the following quizzes in D2L (under Content >> Week 2):
 *I highly recommend attempting the practice quiz a few times for each of these before taking one that "counts." You can find them under "Practice fundamentals quizzes" in the Content section of our D2L site.*
 
 
-**For Tuesday, September 8, 7am,** read watch the following:
+### For Tuesday, September 8, 7am:
+
+Read/watch the following:
 
 - Review fundamentals chapters in [*Open Music Theory*](http://openmusictheory.com/contents.html) as needed, in light of questions that arose during class and/or preparation for the fundamentals quizzes.  
 

@@ -31,6 +31,12 @@ Below are written and/or video descriptions of the activities that will be asses
 *Some of the assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
 
 
+## Major assignments/deadlines (dates subject to change)
+
+**Week 4:** Fundamentals writing test, attempt 1  
+**Week 7:** Fundamentals writing test, attempt 2  
+**Week 7:** Final attempts for online fundamentals quizzes  
+
 ## Reading/video quizzes (online)
 
 There will be two reading/video assignments most weeks, with online reading quizzes due to be completed by 7am on Tuesday and Thursday. These quizzes will run in D2L. Only quizzes submitted by students present in class will be assessed.

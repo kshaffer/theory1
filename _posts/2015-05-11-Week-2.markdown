@@ -1,0 +1,8 @@
+---
+layout: default
+image: memorySmall.jpg
+category: Services
+title: Week 2 – August 31–September 3
+description: |
+  <p class="lead"><b>Scales, scale degrees, and intervals.</b><br/><br/>How are melodies organized in terms of their pitch content? How do we transpose a melody to a different register while still retaining its intervallic shape?<br/><br/><a href="/week2/">Read more...</a></p>
+---

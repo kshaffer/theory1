@@ -7,53 +7,68 @@ image: memory.jpg
 
 ## Schedule
 
-**Monday, August 31:** Modes, mixture, melody  
-**Tuesday, September 1:** Performing pop/rock melodies  
-***Due Wednesday, September 2, before class:*** *Reading/video quiz*  
-**Wednesday, September 2:** Modes, mixture (cont.), schemata  
-**Thursday, September 3:** Performing pop/rock melodies & IDing schemata
+***Due Tuesday, September 1, 8am:*** *Reading/video quiz, fundamentals quizzes*
 
-***Due Monday, September 7, 8am:*** *Reading/video quiz*
+**Tuesday, September 1:** scales and scale degrees  
+***Due Thursday, September 3, before class:*** *Reading/video quiz, fundamentals quizzes* 
+**Thursday, September 3:** transposition, introduction to intervals  
+
+***Due Tuesday, September 8, 8am:*** *Reading/video quiz, fundamentals quizzes*
 
 ## Core concepts
 
-In this unit, we will explore the following core concepts:
+This week, we will explore the following core concepts:
 
-- Major pentatonic collection  
-- Minor pentatonic collection  
-- Dorian mode  
-- Phrygian mode  
-- Lydian mode  
-- Mixolydian mode  
-- Modal mixture  
-- 50s doo-wop progression  
-- singer/songwriter progression  
-- Puff progression  
-- Blues progression  
-- Pachelbel progression  
-- Lament progression  
-- Circle-of-fifths progression  
-- Plagal progressions  
-- Rock’s “tonal systems”  
 
 
 ## Assignments
 
-**For Monday, August 31, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+**For Tuesday, September 1, 7am,** read/watch the following:
 
-- Modes (link coming soon)  
-- [Modal mixture](http://openmusictheory.com/modalMixture.html) (skip the section on functional bass notation)  
+- [Pitches](http://openmusictheory.com/pitches.html) (review)  
+- [Key signatures](http://openmusictheory.com/keySignatures.html) (review)  
+- [Basic notation](http://openmusictheory.com/basicNotation.html) (review)  
+- [Scales and scale degrees](http://openmusictheory.com/scales.html)
 
-**For Wednesday, September 2, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+Then take three quizzes in D2L:
 
-- [Harmony in pop/rock music](http://openmusictheory.com/popRockHarmony.html)  
+- Reading quiz – Sept 1 (not timed, open-note, collaboration allowed)  
+- Key Signature ID – Sept 1 (3 minutes, one attempt allowed, open-note, no collaboration)  
+- Pitch ID – Sept 1 (3 minutes, one attempt allowed, open-note, no collaboration)
 
-**For Thursday, September 3, 8am,** make three conceptual videos, and submit them to the Theory 3 dropbox on D2L. Each video should be no more than 90 seconds long, and should explain one of the conre concepts listed above. (You may also include one or two core concepts from [Week 1](/week1/).) See the [Assessment Guide](/assessments/) for details about creating these videos before you begin.
+You can find the quizzes by going to [learn.colorado.edu](http://learn.colorado.edu), selecting Semester 1 Theory, clicking on "Content", and then clicking on "Unit I: Melody and musical fundamentals".
 
-**For Monday, September 7, 8am,** create a prepared performance video for the following pop/rock melody and submit to the dropbox on the Aural Skills 3 D2L site. See the [Assessment Guide](/assessments/) for submission and grading details.
+![](images/D2LQuizImage.png)
 
-- Excerpt TBA
 
-**Also for Monday, September 7, 8am,** read/watch the following, and then take the quiz in the Theory 3 D2L site.
+**For Thursday, September 3, 7am,** read watch the following:
 
-- TBA
+- Review fundamentals chapters in [*Open Music Theory*](http://openmusictheory.com/contents.html) as needed, in light of questions that arose during class and/or preparation for the fundamentals quizzes.  
+- Read [Intervals](http://openmusictheory.com/intervals.html) (stop at "Consonance and dissonance")  
+
+And take the following quizzes in D2L (under Content >> Week 2):
+
+- Reading quiz – Sept 3 (not timed, open-note, collaboration allowed)  
+- Key Signature ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
+- Pitch ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
+- Scale ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
+- Scale-degree ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
+
+*I highly recommend attempting the practice quiz a few times for each of these before taking one that "counts." You can find them under "Practice fundamentals quizzes" in the Content section of our D2L site.*
+
+
+**For Tuesday, September 8, 7am,** read watch the following:
+
+- Review fundamentals chapters in [*Open Music Theory*](http://openmusictheory.com/contents.html) as needed, in light of questions that arose during class and/or preparation for the fundamentals quizzes.  
+
+Take the following quizzes in D2L (under Content >> Week 3):
+
+- Reading quiz – Sept 3 (not timed, open-note, collaboration allowed)  
+- Key Signature ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
+- Pitch ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
+- Scale ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
+- Scale-degree ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
+
+*I highly recommend attempting the practice quiz a few times for each of these before taking one that "counts." You can find them under "Practice fundamentals quizzes" in the Content section of our D2L site.*
+
+And finally, do the [fundamentals writing practice assignment]() (link coming soon), to be turned in at the beginning of class. This will not be scored for a grade, but it will be helpful practice and we will use it to give you helpful feedback in advance of the first fundamentals writing test in Week 4.

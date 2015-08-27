@@ -8,6 +8,7 @@ image: schemas.jpg
 ## Schedule
 
 **Tuesday, August 25:** Introductions  
+
 ***Due Thursday, August 27, before class:*** *Memorize answers to reflection questions*  
 **Thursday, August 27:** Pitch and pitch-class  
 
@@ -52,6 +53,6 @@ Then take three quizzes in D2L:
 
 You can find the quizzes by going to [learn.colorado.edu](http://learn.colorado.edu), selecting Semester 1 Theory, clicking on "Content", and then clicking on "Unit I: Melody and musical fundamentals".
 
-![](images/D2LQuizImage.png)
+![](./images/D2LQuizImage.png)
 
 I highly recommend that you go to "Practice fundamentals quizzes" first, and take each practice quiz a few times. It will help you get used to D2L timed quizzes before you do one that "counts," and it will give you a chance to practice and build your fluency.

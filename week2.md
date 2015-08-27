@@ -19,6 +19,17 @@ image: memory.jpg
 
 This week, we will explore the following core concepts:
 
+Chromatic scale  
+- Major scale  
+- Minor scale  
+- Scale-degree  
+- Chromatic interval  
+- Generic interval  
+- Diatonic interval  
+- Compound interval  
+- Interval inversion  
+- Melodic interval  
+- Harmonic interval
 
 
 ## Assignments
@@ -38,7 +49,7 @@ Then take three quizzes in D2L:
 
 You can find the quizzes by going to [learn.colorado.edu](http://learn.colorado.edu), selecting Semester 1 Theory, clicking on "Content", and then clicking on "Unit I: Melody and musical fundamentals".
 
-![](images/D2LQuizImage.png)
+![](./images/D2LQuizImage.png)
 
 
 **For Thursday, September 3, 7am,** read watch the following:

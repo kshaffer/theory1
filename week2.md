@@ -87,4 +87,4 @@ Take the following quizzes in D2L (under Content >> Week 3):
 
 *I highly recommend attempting the practice quiz a few times for each of these before taking one that "counts." You can find them under "Practice fundamentals quizzes" in the Content section of our D2L site.*
 
-And finally, do the [fundamentals writing practice assignment]() (link coming soon), to be turned in at the beginning of class. This will not be scored for a grade, but it will be helpful practice and we will use it to give you helpful feedback in advance of the first fundamentals writing test in Week 4.
+And finally, do the [fundamentals writing practice assignment](media/WritingAssignment1.pdf). Print the worksheet, complete as best you can, and turn in at the beginning of class. This will not be scored for a grade, but it will be helpful practice and we will use it to give you helpful feedback in advance of the first fundamentals writing test in a couple weeks. Collaboration is allowed, but I highly recommend that you attempt it on your own first, and then compare your answers with a colleague.

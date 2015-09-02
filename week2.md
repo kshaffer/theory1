@@ -67,7 +67,6 @@ And take the following quizzes in D2L (under Content >> Week 2):
 - Key Signature ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
 - Pitch ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
 - Scale ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
-- Scale-degree ID – Sept 3 (3 minutes, one attempt allowed, open-note, no collaboration)  
 
 *I highly recommend attempting the practice quiz a few times for each of these before taking one that "counts." You can find them under "Practice fundamentals quizzes" in the Content section of our D2L site.*
 

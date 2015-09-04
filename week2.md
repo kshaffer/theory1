@@ -19,7 +19,7 @@ image: memory.jpg
 
 This week, we will explore the following core concepts:
 
-Chromatic scale  
+- Chromatic scale  
 - Major scale  
 - Minor scale  
 - Scale-degree  

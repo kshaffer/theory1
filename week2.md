@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 2 – Scales, scale degrees, and intervals
-subTitle: "Music Theory and Aural Skills 3 (MUSC 2101 & 2121)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – coordinator"
+subTitle: "Music Theory 1 (MUSC 1101)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: memory.jpg
 ---
 

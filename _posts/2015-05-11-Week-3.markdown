@@ -1,0 +1,8 @@
+---
+layout: default
+image: trebleSmall.jpg
+category: Services
+title: Week 3 – September 8–September 10
+description: |
+  <p class="lead"><b>Intervals & triads.</b><br/><br/>Is there a common foundation to melody and harmony?<br/><br/><a href="/week3/">Read more...</a></p>
+---

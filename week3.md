@@ -76,5 +76,5 @@ Take the following quizzes in D2L (under Content >> Week 4):
 
 - Reading/video quiz - Sept 12  
 - Triad ID - Sept 12  
-- any other Sept 10 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
+- any other Sept 12 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
 

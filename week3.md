@@ -30,6 +30,7 @@ This week, we will explore the following core concepts:
 - Melodic interval  
 - Harmonic interval  
 - Triad  
+- Lead-sheet symbol
 
 
 ## Assignments
@@ -65,16 +66,15 @@ Take the following quizzes in D2L (under Content >> Week 3):
 - any other Sept 10 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
 
 
-### For Tuesday, September 12, 7am:
+### For Tuesday, September 15, 7am:
 
 Read/watch the following:
 
-- [Triads and seventh chords](http://openmusictheory.com/triads.html) (from "Seventh chords" to the end)  
 - [Meter](http://openmusictheory.com/meter.html)  
 
 Take the following quizzes in D2L (under Content >> Week 4):
 
-- Reading/video quiz - Sept 12  
-- Triad ID - Sept 12  
-- any other Sept 12 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
+- Reading/video quiz - Sept 15  
+- Triad ID - Sept 15  
+- any other Sept 15 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
 

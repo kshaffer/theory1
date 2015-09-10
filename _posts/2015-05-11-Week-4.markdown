@@ -1,0 +1,8 @@
+---
+layout: default
+image: trebleSmall.jpg
+category: Services
+title: Week 4 – September 15–September 17
+description: |
+  <p class="lead"><b>Meter & rhythm.</b><br/><br/>How is music organized in time? How do we notate that? Can we do it more than one way?<br/><br/><a href="/week4/">Read more...</a></p>
+---

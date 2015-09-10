@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 4 – Meter, rhythm
+title: Week 4 – Meter & rhythm
 subTitle: "Music Theory 1 (MUSC 1101)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: treble.jpg
 ---

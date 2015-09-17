@@ -1,0 +1,8 @@
+---
+layout: default
+image: manuscriptSmall.jpg
+category: Services
+title: Week 5 – September 22–September 24
+description: |
+  <p class="lead"><b>Seventh chords & written fundamentals test.</b><br/><br/><a href="/week4/">Read more...</a></p>
+---

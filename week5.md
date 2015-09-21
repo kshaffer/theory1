@@ -45,9 +45,17 @@ And finally, do the [fundamentals writing practice assignment](/media/WritingAss
 
 ### For Thursday, September 24, 8am
 
-Review for the fundamentals writing test 1.
+There will be no fundamentals quizzes for Thursday. (You will have four more opportunities for the currently open fundamentals quiz topics.) Please review for the fundamentals writing test 1.
 
-Optional: take any Sept 24 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with.
+Following are some important notes about the fundamentals writing test:
+
+- You may bring a single sheet of 8.5"x11" paper with written notes on it. Otherwise it is a closed-note, closed-book test. Quick work, from memory as much as possible, is the goal.  
+- The test will cover your ability to notate the following ten topics on a musical staff: meter & time signatures, rhythmic notation (“bottom-number transposition”), clefs, keys & key signatures, pitches (on treble, alto, and bass staves), scales, melodic transpositions, intervals, triads, and seventh chords.  
+- The format will be similar to the exercises on the two written homework assignments.  
+- There will be a second fundamentals writing test in Week 8. On that test, you reassess any musical topics you like. The best score from those two tests *for each individual topic* will count towards your semester grade.
+
+We will have time to discuss any questions you have in class on Tuesday.
+
 
 
 ### For Tuesday, September 29, 7am

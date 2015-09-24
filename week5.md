@@ -16,7 +16,7 @@ image: manuscript.jpg
 
 ***Due Thursday, September 24, 7am:*** *Fundamentals quizzes (optional)*  
 
-***Due Tuesday, September 29, 7am:*** *Reading/video quiz, fundamentals quizzes*
+***Due Tuesday, September 29, 7am:*** *Fundamentals quizzes*
 
 ## Core concepts
 
@@ -60,4 +60,7 @@ We will have time to discuss any questions you have in class on Tuesday.
 
 ### For Tuesday, September 29, 7am
 
-TBA
+Take the following quizzes in D2L (under Content >> Week 6):
+
+- Seventh chord ID - Sept 29  
+- any other Sept 29 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with

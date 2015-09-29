@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Week 6 – Harmonic textures
+title: Week 7 – Harmony & melodic embellishment
 subTitle: "Music Theory 1 (MUSC 1101)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: manuscript.jpg
 ---
 
 ## Schedule
 
-**Tuesday, September 29:** Lead sheet to keyboard  
-**Thursday, October 1:** Roman numeral analysis 
+**Tuesday, October 6:** Embellishing tones & classical harmonic reduction  
+**Thursday, October 8:** Harmonic analysis 
 
 ## Due dates
 
-***Due Tuesday, September 29, 7am:*** *fundamentals quizzes* 
+***Due Tuesday, October 6, 7am:*** *fundamentals quizzes, reading quiz* 
 
-***Due Thursday, October 1, 7am:*** *Fundamentals quizzes, lead-sheet assignment*  
+***Due Thursday, October 8, 7am:*** *Fundamentals quizzes, classical reduction assignment*  
 
-***Due Tuesday, October 1, 7am:*** *Written assignment 3, fundamentals quizzes*
+***Due Tuesday, October 8, 7am:*** *Written assignment 3, fundamentals quizzes*
 
 ## Core concepts
 
@@ -30,15 +30,15 @@ This week, we will explore the following core concepts:
 
 ## Assignments
 
-### For Tuesday, September 29, 7am
+### For Tuesday, October 6, 7am
 
-Take the following quizzes in D2L (under Content >> Week 6):
+Take the following quizzes in D2L (under Content >> Week 7):
 
 - Seventh chord ID - Sept 29  
 - any other Sept 29 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
 
 
-### For Thursday, October 1, 7am
+### For Thursday, October 8, 7am
 
 Finish the [keyboard harmonic reduction of "Cathedrals"](media/cathedralsReduction.pdf) that we began in class (download and print the worksheet and get notes from a classmate if you missed Tuesday's class). Then do the following on that handout:
 
@@ -49,7 +49,7 @@ Finish the [keyboard harmonic reduction of "Cathedrals"](media/cathedralsReducti
 
 Bring your annotated score and your tallies to class on Thursday. This is an ungraded assignment, but we will spend the beginning of Thursday's class building on what you find in your analysis.
 
-Also, take the following quizzes in D2L (under Content >> Week 6):
+Also, take the following quizzes in D2L (under Content >> Week 7):
 
 - Seventh chord ID - Oct 1  
 - any other Oct 1 quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with

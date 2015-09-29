@@ -1,0 +1,8 @@
+---
+layout: default
+image: manuscriptSmall.jpg
+category: Services
+title: Week 6 – September 29–October 1
+description: |
+  <p class="lead"><b>Harmonic textures.</b><br/><br/>How do common melodic structures relate to the underlying harmony? How do we reflect that harmony in different musical styles?<br/><br/><a href="/week6/">Read more...</a></p>
+---

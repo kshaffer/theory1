@@ -1,6 +1,6 @@
 ---
 layout: default
-image: manuscriptSmall.jpg
+image: guitarHarmonySmall.jpg
 category: Services
 title: Week 6 – September 29–October 1
 description: |

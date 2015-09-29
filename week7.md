@@ -32,7 +32,9 @@ This week, we will explore the following core concepts:
 
 ### For Tuesday, October 6, 7am
 
-Take the following quizzes in D2L (under Content >> Week 7):
+***Written assignment 3***
+
+Also, take the following quizzes in D2L (under Content >> Week 7):
 
 - Seventh chord ID - Sept 29  
 - any other Sept 29 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
@@ -40,21 +42,15 @@ Take the following quizzes in D2L (under Content >> Week 7):
 
 ### For Thursday, October 8, 7am
 
-Finish the [keyboard harmonic reduction of "Cathedrals"](media/cathedralsReduction.pdf) that we began in class (download and print the worksheet and get notes from a classmate if you missed Tuesday's class). Then do the following on that handout:
-
-- Circle all non-chord tones in the melody — any melodic notes that are not part of the chord given in the lead-sheet symbol.  
-- For all of the circled non-chord tones, tally how many are approached by step, leap or common tone (i.e., look to the interval between the circled note and the note *before* it).  
-- For all of the circled non-chord tones, tally how many are left by step, leap or common tone (i.e., look to the interval between the circled note and the note *after* it).  
-- For all of the circled non-chord tones, tally how many *change direction* and how many *continue in the same direction in which they were approached*.  
-
-Bring your annotated score and your tallies to class on Thursday. This is an ungraded assignment, but we will spend the beginning of Thursday's class building on what you find in your analysis.
+***Details forthcoming***
 
 Also, take the following quizzes in D2L (under Content >> Week 7):
 
 - Seventh chord ID - Oct 1  
 - any other Oct 1 quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
 
+***This is your last opportunity to take the online fundamentals quizzes (except for seventh chord ID).***
 
 ### For Tuesday, October 6, 7am
 
-See [Week 7 Guide](/week7/) (once it is up).
+See [Week 8 Guide](/week8/) (once it is up).

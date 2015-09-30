@@ -40,7 +40,7 @@ Take the following quizzes in D2L (under Content >> Week 6):
 
 ### For Thursday, October 1, 7am
 
-Finish the [keyboard harmonic reduction of "Cathedrals"](media/cathedralsReduction.pdf) that we began in class (download and print the worksheet and get notes from a classmate if you missed Tuesday's class). Then do the following on that handout:
+Finish the [keyboard harmonic reduction of "Cathedrals"]({{ site.url }}/media/cathedralsReduction.pdf) that we began in class (download and print the worksheet and get notes from a classmate if you missed Tuesday's class). Then do the following on that handout:
 
 - Circle all non-chord tones in the melody — any melodic notes that are not part of the chord given in the lead-sheet symbol.  
 - For all of the circled non-chord tones, tally how many are approached by step, leap or common tone (i.e., look to the interval between the circled note and the note *before* it).  

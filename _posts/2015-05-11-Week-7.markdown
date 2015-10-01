@@ -1,0 +1,8 @@
+---
+layout: default
+image: guitarHarmonySmall.jpg
+category: Services
+title: Week 7 – October 6–8
+description: |
+  <p class="lead"><b>Harmonic textures, cont.</b><br/><br/>How do common melodic structures relate to the underlying harmony? How do we reflect that harmony in different musical styles?<br/><br/><a href="/week7/">Read more...</a></p>
+---

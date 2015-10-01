@@ -12,11 +12,11 @@ image: guitarHarmony.jpg
 
 ## Due dates
 
-***Due Tuesday, October 6, 7am:*** *fundamentals quizzes, reading quiz* 
+***Due Tuesday, October 6, 7am:*** *Written assignment 3, fundamentals quizzes, reading quiz* 
 
 ***Due Thursday, October 8, 7am:*** *Fundamentals quizzes, classical reduction assignment*  
 
-***Due Tuesday, October 8, 7am:*** *Written assignment 3, fundamentals quizzes*
+***Due Tuesday, October 13, 7am:*** *TBA*
 
 ## Core concepts
 

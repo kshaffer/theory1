@@ -32,25 +32,29 @@ This week, we will explore the following core concepts:
 
 ### For Tuesday, October 6, 7am
 
-***Written assignment 3***
+Complete [Written Assignment No. 3]({{ site.url }}/media/daydreamBelieverReduction.pdf), and submit it in-person at the beginning of class. Be sure to follow all of the directions carefully. Use the work we did with "Cathedrals" in class as a guide.
+
+Next, read the following and take the reading quiz in D2L (under Content >> Week 7):
+
+- [Embellishing tones](http://openmusictheory.com/embellishingTones.html)
 
 Also, take the following quizzes in D2L (under Content >> Week 7):
 
-- Seventh chord ID - Sept 29  
-- any other Sept 29 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
+- Seventh chord ID - Oct 6  
+- any other Oct 6 fundamentals quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
 
 
 ### For Thursday, October 8, 7am
 
-***Details forthcoming***
+***Written assignment details forthcoming***
 
 Also, take the following quizzes in D2L (under Content >> Week 7):
 
-- Seventh chord ID - Oct 1  
-- any other Oct 1 quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
+- Seventh chord ID - Oct 8  
+- any other Oct 8 quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
 
 ***This is your last opportunity to take the online fundamentals quizzes (except for seventh chord ID).***
 
-### For Tuesday, October 6, 7am
+### For Tuesday, October 13, 7am
 
 See [Week 8 Guide](/week8/) (once it is up).

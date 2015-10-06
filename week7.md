@@ -46,9 +46,9 @@ Also, take the following quizzes in D2L (under Content >> Week 7):
 
 ### For Thursday, October 8, 7am
 
-***Written assignment details forthcoming***
+There is no written assignment due on Thursday. Simply focus on your final round of fundamental quizzes...
 
-Also, take the following quizzes in D2L (under Content >> Week 7):
+Take the following quizzes in D2L (under Content >> Week 7):
 
 - Seventh chord ID - Oct 8  
 - any other Oct 8 quizzes for categories in which you haven't reached a mastery level (or grade) you are happy with
@@ -57,4 +57,4 @@ Also, take the following quizzes in D2L (under Content >> Week 7):
 
 ### For Tuesday, October 13, 7am
 
-See [Week 8 Guide](/week8/) (once it is up).
+See [Week 8 Guide](/week8/) (once it is up). (Be sure to hang on to your Mozart K. 283 handouts from Oct 6. You'll use them in the written assignment for Tuesday.)

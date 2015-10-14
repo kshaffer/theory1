@@ -40,8 +40,6 @@ Also, take the following quizzes in D2L (under Content >> Week 8):
 
 ### For Thursday, October 15, 7am
 
-Complete Written Assignment No. 4. (Link forthcoming.)
-
 Prepare for the second (and final) fundamentals writing test. You only have to do the parts of the test that you did not do well on the first time. The best score from these two tests *for each individual section* will contribute to your final grade for fundamentals writing.
 
 Take the following quizzes in D2L (under Content >> Week 8):

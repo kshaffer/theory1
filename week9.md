@@ -2,7 +2,7 @@
 layout: page
 title: Week 9 – Chord inversions and voicing
 subTitle: "Music Theory 1 (MUSC 1101)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
-image: guitarHarmony.jpg
+image: keys.jpg
 ---
 
 ## Schedule

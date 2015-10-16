@@ -1,0 +1,8 @@
+---
+layout: default
+image: keysSmall.jpg
+category: Services
+title: Week 9 – October 20–27
+description: |
+  <p class="lead"><b>Chord inversions and voicing.</b><br/><br/>This week, we add some detail and refinement to our understanding of harmonic structures and melodic composition.<br/><br/><a href="/week9/">Read more...</a></p>
+---

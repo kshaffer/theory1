@@ -40,6 +40,7 @@ Also, please read the following and take the Oct 19 Reading Quiz in D2L (under C
 - [Composing in basso-continuo style](http://openmusictheory.com/bassoContinuo.html)  
 - [A brief history of basso-continuo keyboard-style voice-leading](http://openmusictheory.com/bassoContinuo-history.html) (optional, for those interested in the historical background to some of what we're doing this week)  
 
+*Please note that you do NOT have to follow the new voicing and voice-leading principles in these readings on Written Assignment No. 4. You ONLY have to worry about following the Law of the Shortest Way and the specific instructions provided on the assignment.*
 
 
 ### For Thursday, October 22, 8am

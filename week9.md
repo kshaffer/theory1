@@ -12,9 +12,7 @@ image: keys.jpg
 
 ## Due dates
 
-***Due Tuesday, October 20, 7am:*** *reading quiz, written asst. no. 4* 
-
-***Due Thursday, October 22, 7am:*** *TBA*  
+***Due Tuesday, October 20, 7am:*** *reading quiz, written asst. no. 4*   
 
 
 ## Core concepts
@@ -45,7 +43,8 @@ Also, please read the following and take the Oct 19 Reading Quiz in D2L (under C
 
 ### For Thursday, October 22, 8am
 
-TBA
+Nothing is due. A more substantial assignment will be due on Tuesday, Oct. 27.
+
 
 ### For Tuesday, October 27, 7am
 

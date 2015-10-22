@@ -48,4 +48,8 @@ Nothing is due. A more substantial assignment will be due on Tuesday, Oct. 27.
 
 ### For Tuesday, October 27, 7am
 
-See [Week 10 Guide](/week10/) (once it is up).
+Complete [Written Assignment No. 5]({{ site.url }}/media/WritingAssignment5.pdf). Print the PDF, complete it, and hand it in at the beginning of class. Be sure to follow *all of the instructions* on the assignment. As usual, keep in mind that there is often more than one legitimate musical interpretation. If you can match what you hear to specific musical details that support it, you're on the right track. This assignment will count toward the application assignments part of your course grade.
+
+Note that this assignment does *not* include basso-continuo style reduction/voice-leading. The reduction part of this assignment is the same as Asst. 4.
+
+There is no reading/quiz for Tuesday.

@@ -4,5 +4,5 @@ image: keysSmall.jpg
 category: Services
 title: Week 10 – October 27–29
 description: |
-  <p class="lead"><b>Melody & motive.</b><br/><br/>How do we match melodic structures to stylistic expectations?<br/><br/><a href="/week10/">Read more...</a></p>
+  <p class="lead"><b>Melody & motive.</b><br/><br/><a href="/week10/">Read more...</a></p>
 ---

@@ -1,8 +1,0 @@
----
-layout: default
-image: killersBandSmall.jpg
-category: Services
-title: Week 11 – November 3–5
-description: |
-  <p class="lead"><b>Melody composition.</b><br/><br/><a href="/week11/">Read more...</a></p>
----

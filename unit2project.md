@@ -27,6 +27,8 @@ Submit both a score of your composition (handwritten or notation software) and a
 
 **Choose, or write, a text** that is four lines long. Then **choose a chord progression** — either the 50s Doo-Wop progression or the Songer/songwriter progression — to pair with that text (four-bar phrases, one chord per bar). Then **compose a melody** that fits the rhythm of the text and the pitches of the chord progression. To accompany your melody, work out **chordal keyboard part** (using the chord voicings and *Law of the Shortest Way* that we have explored in the context of basso-continuo style voice-leading).  
 
+As you compose your melody, keep in mind the pop/rock characteristics we discovered as we analyzed the set of songs in class on Nov 3. See the scores and notes in our [Google Drive shared folder.](https://drive.google.com/open?id=0B9o4hmKNoi6cfkRmMmY1UTVrcXYxb0RZYXpfUXFtMklpOXBlNDlIZFZpbGMwRFhyelFveUE)
+
 ### The score
 
 **Create a score** that contains three staves: a lead-sheet staff (melody, lyrics, lead-sheet chord symbols), and a two-staff, chordal keyboard part. On the score, **circle each non-chord tone** in the melody and label it according to its embellishing-tone type. Underneath the keyboard part, provide a **Roman-numeral and figured-bass analysis** of your harmonic progression. This score can be handwritten, but if you know how to use notation software, please use that instead. (We will be learning some basics of notation software starting next unit and into next semester, so don't worry about learning it on your own just for this project.) 

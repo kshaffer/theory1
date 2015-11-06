@@ -13,7 +13,7 @@ image: imogen.jpg
 
 ## Overview
 
-*Compose* and *perform* a melody and chordal accompaniment that is four phrases long and uses one of the following pop/rock chord progressions:
+*Compose* and *perform* a melody and chordal accompaniment that is four phrases long and uses one of the following pop/rock chord progressions ([details here](http://openmusictheory.com/popRockHarmony.html)):
 
 - 50s Doo-Wop  
 - Singer/songwriter (any version)

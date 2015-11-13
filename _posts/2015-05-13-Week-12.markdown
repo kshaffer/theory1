@@ -1,0 +1,8 @@
+---
+layout: default
+image: spiralSmall.jpg
+category: Services
+title: Week 12 – November 10–12
+description: |
+  <p class="lead"><b>Introduction to strict counterpoint.</b><br/><br/>Leading the ear to fundamental musical problems.<br/><br/><a href="/week12/">Read more...</a></p>
+---

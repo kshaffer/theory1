@@ -7,7 +7,7 @@ image: flameArt.jpg
 
 ## Schedule
 
-**Tuesday, November 17:** Cantus firmus composition  
+**Tuesday, November 17:** Cantus firmus composition: [in-class exercises here](/CFExercises)  
 **Thursday, November 19:** First species counterpoint – inquiry & analysis
 
 ## Due dates

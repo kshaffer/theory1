@@ -35,7 +35,7 @@ Find a partner, and together compose two *cantus firmi* that follow the principl
 
 Make use of whatever help/getting-started guides the software makers provide. (We are purposely starting the use of notation software on an assignment that only involves whole notes.)
 
-***Upload the video(s) and the score(s) to the dropbox on the D2L site (Content >> Week 13). *** You can upload it to just one D2L dropbox, and we will enter the grade in both students' grade books.
+***Upload the video(s) and the score(s) to the dropbox on the D2L site (Content >> Week 13).*** You can upload it to just one D2L dropbox, and we will enter the grade in both students' grade books.
 
 These will be graded pass/not-pass. A cantus firmus whose composition and performance are error free or contain one small error will pass. Otherwise, you will be given an opportunity to reassess next week.
 

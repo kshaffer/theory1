@@ -1,8 +1,8 @@
 ---
 layout: default
-image: flameArtSmall.jpg
+image: spiralSmall.jpg
 category: Services
-title: Week 13 – November 17–19
+title: Week 12 – November 10–12
 description: |
-  <p class="lead"><b>Cantus firmus & first species.</b><br/><br/>Musical problems.<br/><br/><a href="/week13/">Read more...</a></p>
+  <p class="lead"><b>Introduction to strict counterpoint.</b><br/><br/>Leading the ear to fundamental musical problems.<br/><br/><a href="/week12/">Read more...</a></p>
 ---

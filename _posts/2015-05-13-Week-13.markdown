@@ -1,0 +1,8 @@
+---
+layout: default
+image: flameArtSmall.jpg
+category: Services
+title: Week 13 – November 17–19
+description: |
+  <p class="lead"><b>Cantus firmus & first species.</b><br/><br/>Musical problems.<br/><br/><a href="/week13/">Read more...</a></p>
+---

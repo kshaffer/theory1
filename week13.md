@@ -45,4 +45,5 @@ These will be graded pass/not-pass. A cantus firmus whose composition and perfor
 Read the following resources, then take the December 1 Reading Quiz on D2L (under Content >> Week 14):
 
 - [Collaborative Google Doc](https://drive.google.com/open?id=1RPLXvqO7J7a8dlSlNvQ5Mxf_N38h2UD-7DgeFceHZSM) from Thursday's class  
+- [Types of motion](http://openmusictheory.com/motionTypes.html)  
 - [Composing a first-species counterpoint](http://openmusictheory.com/firstSpecies.html)  

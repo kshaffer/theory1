@@ -1,0 +1,8 @@
+---
+layout: default
+image: watchSmall.jpg
+category: Services
+title: Week 14 – December 1–3
+description: |
+  <p class="lead"><b>First and second species counterpoint.</b><br/><br/>More musical problems.<br/><br/><a href="/week14/">Read more...</a></p>
+---

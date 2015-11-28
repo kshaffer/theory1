@@ -7,7 +7,7 @@ image: watch.jpg
 
 ## Schedule
 
-**Tuesday, December 1:** First-species composition: [in-class exercises here](/CFExercises)  
+**Tuesday, December 1:** First-species composition: [in-class exercises here](/FirstSpeciesExercises/)  
 **Thursday, December 3:** Second species counterpoint – inquiry & analysis
 
 ## Due dates

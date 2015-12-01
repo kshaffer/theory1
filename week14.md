@@ -24,7 +24,7 @@ image: watch.jpg
 
 Review the [Composing a first-species counterpoint resource](http://openmusictheory.com/firstSpecies.html).
 
-Find a partner, and together compose two first-species counterpoint exercises that follow the principles laid out in the resource — **one in major with the counterpoint *below* the cantus (bass staff)** and **one in minor with the counterpoint *above* the cantus (treble staff).** Then **make a video** of you and your partner singing each exercise, one per part, with solfège and without the assistance of an instrument. Please notate your exercises using a music notation application of your choice. Some possibilities are:
+Find a partner, and together compose two first-species counterpoint exercises that follow the principles laid out in the resource — **one in major with the counterpoint *below* the cantus (bass staff)** and **one in minor with the counterpoint *above* the cantus (treble staff).** Use [***one of these cantus firmi***](http://openmusictheory.com/Graphics/counterpoint/cantusFirmi.pdf) as the basis for each exercise. Then **make a video** of you and your partner singing each exercise, one per part, with solfège and without the assistance of an instrument. Please notate your exercises using a music notation application of your choice. Some possibilities are:
 
 - [Finale](http://finalemusic.com)  
 - [Sibelius](http://sibelius.com)  

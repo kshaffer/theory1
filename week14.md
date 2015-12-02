@@ -42,7 +42,7 @@ These will be graded pass/not-pass. A cantus firmus whose composition and perfor
 
 ### For Tuesday, December 8, 7am
 
-Read the following resources, then take the December 1 Reading Quiz on D2L (under Content >> Week 15):
+Read the following resources, then take the December 8 Reading Quiz on D2L (under Content >> Week 15):
 
 - [Collaborative Google Doc](https://drive.google.com/open?id=1EU5dwkUm6ChoitJlE6rpRKx-JXRX-bDSLeT65dVLKu8) from Thursday's class  
 - [Composing a second-species counterpoint](http://openmusictheory.com/secondSpecies.html)  

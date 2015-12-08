@@ -1,0 +1,8 @@
+---
+layout: default
+image: synapseSmall.jpg
+category: Services
+title: Week 15 – December 8–10
+description: |
+  <p class="lead"><b>Second species counterpoint.</b><br/><br/>Still more musical problems.<br/><br/><a href="/week15/">Read more...</a></p>
+---

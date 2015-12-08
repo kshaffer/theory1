@@ -14,3 +14,5 @@ After noting where your musical instincts direct you, begin to add/delete/replac
 ### Minor key practice, counterpoint above
 
 <iframe src="https://trinket.io/embed/music/b704fec85f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+After finishing, compare your corrected exercise to [this model exercise](https://trinket.io/library/trinkets/6e2405d612).

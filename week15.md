@@ -15,7 +15,7 @@ image: synapse.jpg
 ***Due Tuesday, December 8, 7am:*** *Reading quiz*   
 ***Due Thursday, December 10, 8am:*** *Second-species compositions*   
 
-***Due Tuesday, December 15, 8am:*** *Final project, species reassessments*   
+***Due Wednesday, December 16, 8am:*** *Final project, species reassessments*   
 
 
 ## Assignments

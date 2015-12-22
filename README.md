@@ -1,2 +1,3 @@
-# theory1
+# Music Theory 1
+
 Semester 1 Theory at the CU–Boulder College of Music.
